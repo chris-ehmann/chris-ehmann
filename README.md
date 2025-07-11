@@ -1,10 +1,7 @@
-<p align="center">
-  <span>hello! my name's chris 👋</span>
-</p>
+
+<h4 align="center">hello! i'm chris 👋</h4>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5547b5d2-71fd-4063-9333-5889c0f581d9" alt="nuko_cat_spin">
-  <img src="https://github.com/user-attachments/assets/81e06b1f-eb4e-4f4f-9e50-3d600f6a4830" height=64 alt="jah">
-  <img src="https://github.com/user-attachments/assets/d154b338-cae2-4ba8-8528-bc9b8ec108ca" height=16 alt="nuko_cat_jump">
+  <img src="https://github.com/user-attachments/assets/37fea6f6-2163-4076-926e-e66e897a76d2" width=400 alt="nuko_cat_dance_line">
 </div>
 
